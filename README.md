@@ -1,3 +1,3 @@
-# adventuregame - for Windows Batch
+# Adventure Game for Batch (Original) - Archives
 
-No longer recieves updates. For a version with periodical updates, check out the python repo for adventuregame.
+This is archived and will no longer recieve updates.
